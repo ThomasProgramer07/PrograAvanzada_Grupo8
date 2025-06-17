@@ -1,0 +1,6 @@
+C:\Users\moise\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.dll
+C:\Users\moise\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\bin\Debug\AdvancedProgramming.Models.pdb
+C:\Users\moise\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.AssemblyReference.cache
+C:\Users\moise\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.csproj.CoreCompileInputs.cache
+C:\Users\moise\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.dll
+C:\Users\moise\Downloads\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Models\obj\Debug\AdvancedProgramming.Models.pdb

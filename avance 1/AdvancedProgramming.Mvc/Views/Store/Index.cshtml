@@ -1,0 +1,19 @@
+@model IEnumerable<AdvancedProgramming.Models.Fruit>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index @ViewBag.Message</h2>
+
+<ul>
+    @foreach (var f in Model)
+    {
+        if (f.Id % 2 == 0)
+        {
+            <li>
+                @f.Id - @f.Name
+            </li>
+        }
+    }
+</ul>
